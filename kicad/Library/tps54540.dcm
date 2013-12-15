@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 08 Dec 2013 10:18:57 AM PST
+#
+$CMP TPS54540
+D TPS545404.5 V to 42 V Input, 5 A, Step Down DC-DC Converter with Eco-mode™
+K DC/DC 
+F http://www.ti.com/lit/ds/symlink/tps54540.pdf
+$ENDCMP
+#
+#End Doc Library

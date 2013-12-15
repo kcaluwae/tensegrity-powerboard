@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 07 Dec 2013 05:35:23 PM PST
+#
+$CMP ACS711KLCTR-12AB-T
+D ACS711KLCTR-12AB-T Hall effect current sensor
+K Hall effect current sensor
+F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CD4QFjAA&url=http%3A%2F%2Fwww.allegromicro.com%2F~%2Fmedia%2FFiles%2FDatasheets%2FACS711-Datasheet.ashx&ei=5MWjUs_VIpXFoAS38IHQBw&usg=AFQjCNHaIg0GcpmqPwkhSlfbKbFFx8f1fg&sig2=OPTsAgyH7K9QQf48t1czcA&bvm=bv.57752919,d.cGU
+$ENDCMP
+#
+#End Doc Library

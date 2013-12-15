@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 08 Dec 2013 09:38:49 AM PST
+#
+$CMP PSMN013-80YS
+D PSMN013-80YS N-channel LFPAK 80 V 12.9 mΩ
+K MOSFET NMOS
+F http://www.nxp.com/documents/data_sheet/PSMN013-80YS.pdf
+$ENDCMP
+#
+#End Doc Library

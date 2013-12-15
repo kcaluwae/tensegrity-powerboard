@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 08 Dec 2013 11:15:49 AM PST
+#
+$CMP FDS6898AZ
+D FDS6898AZDual N-Channel Logic Level PWM Optimized PowerTrench“ MOSFET
+K MOSFET DUAL NMOS 
+F http://www.fairchildsemi.com/ds/FD/FDS6898AZ.pdf
+$ENDCMP
+#
+#End Doc Library
