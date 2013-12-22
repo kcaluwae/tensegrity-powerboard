@@ -1,0 +1,63 @@
+PCBNEW-LibModule-V1  Sun 22 Dec 2013 12:19:49 AM CET
+# encoding utf-8
+Units mm
+$INDEX
+SOT669
+$EndINDEX
+$MODULE SOT669
+Po 0 0 0 15 52B621FD 00000000 ~~
+Li SOT669
+Cd http://www.nxp.com/documents/leaflet/75016838.pdf
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1 1 0 0.15 N V 21 N "SOT669"
+T1 -5.08 -2.54 1 1 0 0.15 N V 21 N "U**"
+DS -3 -1.5 3 -1.5 0.15 21
+DS 3 -1.5 3 6.5 0.15 21
+DS 3 6.5 -3 6.5 0.15 21
+DS -3 6.5 -3 -1.5 0.15 21
+$PAD
+Sh "5" R 4.7 1.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" R 4.2 3.1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 2.3
+$EndPAD
+$PAD
+Sh "1" R 0.7 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.9 5.475
+$EndPAD
+$PAD
+Sh "2" R 0.7 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.63 5.475
+$EndPAD
+$PAD
+Sh "3" R 0.7 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.64 5.475
+$EndPAD
+$PAD
+Sh "4" R 0.7 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.91 5.475
+$EndPAD
+$EndMODULE SOT669
+$EndLIBRARY

@@ -1,0 +1,30 @@
+PCBNEW-LibModule-V1  Fri 20 Dec 2013 08:23:42 PM CET
+# encoding utf-8
+Units mm
+$INDEX
+XAL60xx
+$EndINDEX
+$MODULE XAL60xx
+Po 0 0 0 15 52B498E6 00000000 ~~
+Li XAL60xx
+Sc 0
+AR 
+Op 0 0 0
+T0 1.9 4 1 1 0 0.15 N V 21 N "XAL60xx"
+T1 0 -3.9 1 1 0 0.15 N V 21 N "L**"
+$PAD
+Sh "1" R 1.43 5.33 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" R 1.43 5.33 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.04 0
+$EndPAD
+$EndMODULE XAL60xx
+$EndLIBRARY

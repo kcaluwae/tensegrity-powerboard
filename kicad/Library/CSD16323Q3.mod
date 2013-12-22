@@ -1,0 +1,79 @@
+PCBNEW-LibModule-V1  Fri 20 Dec 2013 07:44:45 PM CET
+# encoding utf-8
+Units mm
+$INDEX
+Q3
+$EndINDEX
+$MODULE Q3
+Po 0 0 0 15 52B4895C 00000000 ~~
+Li Q3
+Sc 0
+AR 
+Op 0 0 0
+T0 1.7 -1.2 1 1 0 0.15 N V 21 N "Q3"
+T1 -0.6 -1.1 1 1 0 0.15 N V 21 N "T**"
+$PAD
+Sh "5" R 2.31 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "6" R 2.31 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0.65
+$EndPAD
+$PAD
+Sh "7" R 2.31 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.3
+$EndPAD
+$PAD
+Sh "8" R 2.31 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.95
+$EndPAD
+$PAD
+Sh "4" R 0.63 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.03 0
+$EndPAD
+$PAD
+Sh "3" R 0.63 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.03 0.65
+$EndPAD
+$PAD
+Sh "2" R 0.63 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.03 1.3
+$EndPAD
+$PAD
+Sh "1" R 0.63 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.03 1.95
+$EndPAD
+$PAD
+Sh "" R 1.9 2.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.2 0.975
+$EndPAD
+$EndMODULE Q3
+$EndLIBRARY

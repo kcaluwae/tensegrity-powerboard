@@ -1,0 +1,51 @@
+PCBNEW-LibModule-V1  Sun 22 Dec 2013 12:01:45 AM CET
+# encoding utf-8
+Units mm
+$INDEX
+SPDT
+$EndINDEX
+$MODULE SPDT
+Po 0 0 0 15 52B61DC8 00000000 ~~
+Li SPDT
+Sc 0
+AR 
+Op 0 0 0
+T0 2.54 -2.54 1 1 0 0.15 N V 21 N "SPDT"
+T1 -1.27 -2.54 1 1 0 0.15 N V 21 N "J**"
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "" C 1.5 1.5 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.1 0
+$EndPAD
+$PAD
+Sh "" C 1.5 1.5 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.1 0
+$EndPAD
+$EndMODULE SPDT
+$EndLIBRARY
