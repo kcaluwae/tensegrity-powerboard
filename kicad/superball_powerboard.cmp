@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sun 22 Dec 2013 11:08:04 PM CET
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Thu 26 Dec 2013 11:29:42 PM CET
 
 BeginCmp
 TimeStamp = /52ACEAFF;
@@ -99,9 +99,9 @@ IdModule  = SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /52AF7DB5;
+TimeStamp = /52BCC963;
 Reference = C15;
-ValeurCmp = 10uF;
+ValeurCmp = 100nF;
 IdModule  = SM0805;
 EndCmp
 
@@ -283,13 +283,6 @@ EndCmp
 BeginCmp
 TimeStamp = /52B0EE26;
 Reference = D4;
-ValeurCmp = LED;
-IdModule  = LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52B1050F;
-Reference = D5;
 ValeurCmp = LED;
 IdModule  = LED-0805;
 EndCmp
@@ -533,7 +526,7 @@ IdModule  = SOIC-8_N;
 EndCmp
 
 BeginCmp
-TimeStamp = /52A4B84F;
+TimeStamp = /52BC660E;
 Reference = Q3;
 ValeurCmp = TPS54540;
 IdModule  = R-PDSO-G8;
@@ -631,9 +624,16 @@ IdModule  = SOIC-8_N;
 EndCmp
 
 BeginCmp
+TimeStamp = /52BC9F7B;
+Reference = Q17;
+ValeurCmp = PSMN013-80YS;
+IdModule  = SOT669;
+EndCmp
+
+BeginCmp
 TimeStamp = /52AE1709;
 Reference = R1;
-ValeurCmp = 5K;
+ValeurCmp = 10K;
 IdModule  = SM0805;
 EndCmp
 
@@ -661,7 +661,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52AE20DC;
 Reference = R5;
-ValeurCmp = INF;
+ValeurCmp = 50K;
 IdModule  = SM0805;
 EndCmp
 
@@ -694,16 +694,16 @@ IdModule  = SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /52AE1619;
+TimeStamp = /52BCBCCE;
 Reference = R10;
-ValeurCmp = 50K;
+ValeurCmp = 10K;
 IdModule  = SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /52AE16FA;
+TimeStamp = /52BCBCD4;
 Reference = R11;
-ValeurCmp = 5K;
+ValeurCmp = 1K;
 IdModule  = SM0805;
 EndCmp
 
@@ -771,30 +771,9 @@ IdModule  = SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /52A7BEED;
-Reference = R21;
-ValeurCmp = 10K;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52A7C19B;
-Reference = R22;
-ValeurCmp = INF;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
 TimeStamp = /52B0EE20;
 Reference = R23;
 ValeurCmp = 1K;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52B10509;
-Reference = R24;
-ValeurCmp = 5K;
 IdModule  = SM0805;
 EndCmp
 
@@ -883,44 +862,9 @@ IdModule  = SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /52B347DA;
-Reference = R37;
-ValeurCmp = 50K;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52B347EC;
-Reference = R38;
-ValeurCmp = 50K;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52B347F2;
-Reference = R39;
-ValeurCmp = 50K;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52B354AE;
-Reference = R40;
-ValeurCmp = 50K;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
 TimeStamp = /52AF29C7;
 Reference = R41;
 ValeurCmp = 4K7;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52AFADBD;
-Reference = R42;
-ValeurCmp = 0;
 IdModule  = SM0805;
 EndCmp
 
@@ -1030,13 +974,6 @@ IdModule  = sot323-6;
 EndCmp
 
 BeginCmp
-TimeStamp = /52ADF83A;
-Reference = U2;
-ValeurCmp = CSD16323Q3;
-IdModule  = Q3;
-EndCmp
-
-BeginCmp
 TimeStamp = /52A68125;
 Reference = U3;
 ValeurCmp = SN65HVD232;
@@ -1051,10 +988,10 @@ IdModule  = dp_devices-TQFP-64-10X10;
 EndCmp
 
 BeginCmp
-TimeStamp = /52AF1491;
+TimeStamp = /52BC0301;
 Reference = U5;
-ValeurCmp = LDO 3V3 SOT-223;
-IdModule  = SOT223;
+ValeurCmp = MCP1700;
+IdModule  = SOT23;
 EndCmp
 
 EndListe

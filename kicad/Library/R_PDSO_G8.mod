@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  Sun 22 Dec 2013 09:32:08 PM CET
+PCBNEW-LibModule-V1  Thu 26 Dec 2013 05:44:57 PM CET
 # encoding utf-8
 Units mm
 $INDEX
 R-PDSO-G8
 $EndINDEX
 $MODULE R-PDSO-G8
-Po 0 0 0 15 52B74BFF 00000000 ~~
+Po 0 0 0 15 52BC5D00 00000000 ~~
 Li R-PDSO-G8
 Sc 0
 AR 
@@ -21,42 +21,42 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $PAD
-Sh "" C 0.6 0.6 0 0 0
+Sh "9" C 0.6 0.6 0 0 0
 Dr 0.4 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 -0.65
 $EndPAD
 $PAD
-Sh "" C 0.65 0.65 0 0 0
+Sh "9" C 0.65 0.65 0 0 0
 Dr 0.4 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0.65
 $EndPAD
 $PAD
-Sh "" C 0.65 0.65 0 0 0
+Sh "9" C 0.65 0.65 0 0 0
 Dr 0.4 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.3 -0.65
 $EndPAD
 $PAD
-Sh "" C 0.65 0.65 0 0 0
+Sh "9" C 0.65 0.65 0 0 0
 Dr 0.4 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.3 0.65
 $EndPAD
 $PAD
-Sh "" C 0.65 0.65 0 0 0
+Sh "9" C 0.65 0.65 0 0 0
 Dr 0.4 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.3 0.65
 $EndPAD
 $PAD
-Sh "" C 0.65 0.65 0 0 0
+Sh "9" C 0.65 0.65 0 0 0
 Dr 0.4 0 0
 At STD N 00E0FFFF
 Ne 0 ""
