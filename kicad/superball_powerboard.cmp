@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Fri 27 Dec 2013 07:58:55 PM CET
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sat 28 Dec 2013 03:37:32 PM CET
 
 BeginCmp
 TimeStamp = /52ACEAFF;
@@ -116,7 +116,7 @@ BeginCmp
 TimeStamp = /52ACDD03;
 Reference = C17;
 ValeurCmp = 100uF 6.3V;
-IdModule  = SM1206;
+IdModule  = ASL-B3F-1020;
 EndCmp
 
 BeginCmp
@@ -241,13 +241,6 @@ EndCmp
 BeginCmp
 TimeStamp = /52AFA3F3;
 Reference = C35;
-ValeurCmp = 100nF;
-IdModule  = SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /52AF14A0;
-Reference = C36;
 ValeurCmp = 100nF;
 IdModule  = SM0805;
 EndCmp
@@ -806,10 +799,24 @@ IdModule  = SM1206;
 EndCmp
 
 BeginCmp
+TimeStamp = /52BEE131;
+Reference = R22;
+ValeurCmp = 0;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /52B0EE20;
 Reference = R23;
 ValeurCmp = 1K;
 IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52BEE13E;
+Reference = R24;
+ValeurCmp = INF;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
@@ -999,6 +1006,13 @@ TimeStamp = /52B78A62;
 Reference = R56;
 ValeurCmp = 10K;
 IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52BEF352;
+Reference = SW1;
+ValeurCmp = SW_PUSH_4;
+IdModule  = ASL-B3F-1020;
 EndCmp
 
 BeginCmp
