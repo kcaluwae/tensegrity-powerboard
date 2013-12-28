@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  Sun 22 Dec 2013 12:19:49 AM CET
+PCBNEW-LibModule-V1  Fri 27 Dec 2013 11:42:28 AM CET
 # encoding utf-8
 Units mm
 $INDEX
 SOT669
 $EndINDEX
 $MODULE SOT669
-Po 0 0 0 15 52B621FD 00000000 ~~
+Po 0 0 0 15 52BD5824 00000000 ~~
 Li SOT669
 Cd http://www.nxp.com/documents/leaflet/75016838.pdf
 Sc 0
@@ -25,7 +25,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $PAD
-Sh "" R 4.2 3.1 0 0 0
+Sh "5" R 4.2 3.1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""

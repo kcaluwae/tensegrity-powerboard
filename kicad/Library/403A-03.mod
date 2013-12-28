@@ -1,0 +1,36 @@
+PCBNEW-LibModule-V1  Fri 27 Dec 2013 07:58:03 PM CET
+# encoding utf-8
+Units mm
+$INDEX
+403A-03
+$EndINDEX
+$MODULE 403A-03
+Po 0 0 0 15 52BDCDA1 00000000 ~~
+Li 403A-03
+Sc 0
+AR 
+Op 0 0 0
+T0 3.5 -3.5 1 1 0 0.15 N V 21 N "403A-03"
+T1 -1.5 -3.5 1 1 0 0.15 N V 21 N "D**"
+DS 2.5 -2 2.5 2 0.15 21
+DS 3 -2 3 2 0.15 21
+DS -1.5 -2 6 -2 0.15 21
+DS 6 -2 6 2 0.15 21
+DS 6 2 -1.5 2 0.15 21
+DS -1.5 2 -1.5 -2 0.15 21
+$PAD
+Sh "1" R 2.159 2.743 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" R 2.159 2.743 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.42 0
+$EndPAD
+$EndMODULE 403A-03
+$EndLIBRARY
