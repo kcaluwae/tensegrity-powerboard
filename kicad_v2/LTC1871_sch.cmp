@@ -1,0 +1,283 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Wed 07 May 2014 04:46:59 PM CEST
+
+BeginCmp
+TimeStamp = /536A16A4;
+Reference = C1;
+ValeurCmp = 47pF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A16B1;
+Reference = C2;
+ValeurCmp = 6.8nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A2586;
+Reference = C3;
+ValeurCmp = 100pF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A160A;
+Reference = C4;
+ValeurCmp = 4.7uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A17FE;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A180B;
+Reference = C6;
+ValeurCmp = 100uF;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1811;
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A3C4F;
+Reference = C8;
+ValeurCmp = 100uF;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A3C66;
+Reference = C9;
+ValeurCmp = 100uF;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A3C6C;
+Reference = C10;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A46F0;
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A3144;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1E1F;
+Reference = D2;
+ValeurCmp = PDS1040L;
+IdModule  = PDS1040L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1AB8;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = DPAK2;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1432;
+Reference = K1;
+ValeurCmp = ON/OFF;
+IdModule  = pinhead-1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1997;
+Reference = L1;
+ValeurCmp = XAL6030-182MEC;
+IdModule  = XAL60xx;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A35B6;
+Reference = P1;
+ValeurCmp = Ith;
+IdModule  = pinhead-1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A361B;
+Reference = P2;
+ValeurCmp = FB;
+IdModule  = pinhead-1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A3689;
+Reference = P3;
+ValeurCmp = FREQ;
+IdModule  = pinhead-1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A3535;
+Reference = P4;
+ValeurCmp = SENSE;
+IdModule  = pinhead-1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A36FF;
+Reference = P5;
+ValeurCmp = GATE;
+IdModule  = pinhead-1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A376F;
+Reference = P6;
+ValeurCmp = INTVcc;
+IdModule  = pinhead-1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A2B58;
+Reference = P7;
+ValeurCmp = VOUT;
+IdModule  = pinhead-1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A2B67;
+Reference = P8;
+ValeurCmp = VBAT;
+IdModule  = pinhead-1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A2B76;
+Reference = P9;
+ValeurCmp = GND;
+IdModule  = pinhead-1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A2B85;
+Reference = P10;
+ValeurCmp = GND;
+IdModule  = pinhead-1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1AEF;
+Reference = Q1;
+ValeurCmp = PSMN013-80YS;
+IdModule  = SOT669;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A3151;
+Reference = R1;
+ValeurCmp = 270;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A23FA;
+Reference = R2;
+ValeurCmp = 107000;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A2400;
+Reference = R3;
+ValeurCmp = 30000;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A16B9;
+Reference = R4;
+ValeurCmp = 22000;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A235A;
+Reference = R5;
+ValeurCmp = 30000;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A136A;
+Reference = R6;
+ValeurCmp = 0;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1379;
+Reference = R7;
+ValeurCmp = INF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1637;
+Reference = R8;
+ValeurCmp = 0;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1FD6;
+Reference = R9;
+ValeurCmp = 100;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1FE5;
+Reference = R10;
+ValeurCmp = 100;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1FF4;
+Reference = R11;
+ValeurCmp = 100;
+IdModule  = SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1247;
+Reference = U1;
+ValeurCmp = LTC1871;
+IdModule  = MSOP10-0.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A1AA9;
+Reference = U2;
+ValeurCmp = CSD16323Q3;
+IdModule  = Q3;
+EndCmp
+
+EndListe
