@@ -1,4 +1,4 @@
-update=Fri 02 May 2014 02:09:25 PM CEST
+update=Sun 11 May 2014 09:40:09 PM CEST
 version=1
 last_client=eeschema
 [general]
@@ -135,7 +135,7 @@ NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
 RptLab=1
-LabSize=60
+LabSize=39
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -280,3 +280,8 @@ LibName140=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Librar
 LibName141=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/AP7363
 LibName142=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/AD7193
 LibName143=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/AD7192
+LibName144=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/8us9r2a2m2res\r
+LibName145=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/mcsmt-g5030a1-3712
+LibName146=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/pic12f1571
+LibName147=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/nrf24l01+
+LibName148=/home/ken/Documents/nasa/superball/tensegrity-powerboard/kicad/Library/tc74
