@@ -73,6 +73,7 @@ LIBS:AS1359
 LIBS:AP7363
 LIBS:AD7193
 LIBS:AD7192
+LIBS:LTC1871_sch-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
@@ -432,8 +433,6 @@ Wire Wire Line
 Connection ~ 6950 3100
 Text Label 6800 3100 2    60   ~ 0
 GATE
-Wire Wire Line
-	6400 1300 6400 3400
 Wire Wire Line
 	6300 1900 8300 1900
 Connection ~ 6400 1900
@@ -1040,4 +1039,6 @@ $EndComp
 Wire Wire Line
 	7700 2850 7700 2950
 Connection ~ 7700 2850
+Wire Wire Line
+	6400 1300 6400 3400
 $EndSCHEMATC
