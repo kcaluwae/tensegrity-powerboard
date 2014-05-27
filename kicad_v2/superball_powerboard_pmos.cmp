@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by Cvpcb (2014-05-22 BZR 4885)-product   date = Sat 24 May 2014 11:00:22 PM CEST
+Cmp-Mod V01 Created by Cvpcb (2014-05-22 BZR 4885)-product   date = Tue 27 May 2014 06:01:38 PM CEST
 
 BeginCmp
 TimeStamp = /53851A6A;
 Reference = C1;
 ValeurCmp = 100uF;
-IdModule  = pinhead-1X02;
+IdModule  = Capacitors_SMD:c_1210;
 EndCmp
 
 BeginCmp
@@ -25,7 +25,7 @@ BeginCmp
 TimeStamp = /53851A67;
 Reference = C4;
 ValeurCmp = 6.8nF;
-IdModule  = SMD_Packages:SM1206;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -39,14 +39,14 @@ BeginCmp
 TimeStamp = /53851A93;
 Reference = C6;
 ValeurCmp = 100uF;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A94;
 Reference = C7;
 ValeurCmp = 100uF;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
@@ -60,14 +60,14 @@ BeginCmp
 TimeStamp = /53851A95;
 Reference = C9;
 ValeurCmp = 10uF;
-IdModule  = SMD_Packages:SM1206;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851972;
 Reference = C10;
 ValeurCmp = 47uF 50V;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1210;
 EndCmp
 
 BeginCmp
@@ -81,14 +81,14 @@ BeginCmp
 TimeStamp = /53851973;
 Reference = C12;
 ValeurCmp = 100nF 50V;
-IdModule  = SMD_Packages:SM1206;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851968;
 Reference = C13;
 ValeurCmp = 10uF 50V;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1210;
 EndCmp
 
 BeginCmp
@@ -158,14 +158,7 @@ BeginCmp
 TimeStamp = /53851975;
 Reference = C23;
 ValeurCmp = 100uF 6.3V;
-IdModule  = SMD_Packages:SM0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53851A98;
-Reference = C24;
-ValeurCmp = 0.1uF;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
@@ -228,7 +221,7 @@ BeginCmp
 TimeStamp = /53851A3E;
 Reference = C33;
 ValeurCmp = 48nF;
-IdModule  = SMD_Packages:SM1210;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -263,84 +256,84 @@ BeginCmp
 TimeStamp = /53851977;
 Reference = C38;
 ValeurCmp = 100uF 6.3V;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851978;
 Reference = C39;
 ValeurCmp = 100uF 6.3V;
-IdModule  = 1210;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385197C;
 Reference = C40;
 ValeurCmp = 100nF;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851979;
 Reference = C41;
 ValeurCmp = 100uF 6.3V;
-IdModule  = 1210;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385197E;
 Reference = C42;
 ValeurCmp = 10uF 16V;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385197D;
 Reference = C43;
 ValeurCmp = 100nF;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851981;
 Reference = C44;
 ValeurCmp = 100nF;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851980;
 Reference = C45;
 ValeurCmp = 100nF;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A16;
 Reference = C46;
 ValeurCmp = 100nF;
-IdModule  = 0805;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851965;
 Reference = C47;
 ValeurCmp = 100nF;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385197F;
 Reference = C48;
 ValeurCmp = 100nF;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851997;
 Reference = C49;
 ValeurCmp = 10uF;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
@@ -354,14 +347,14 @@ BeginCmp
 TimeStamp = /538519D2;
 Reference = D2;
 ValeurCmp = ZENER;
-IdModule  = DO-214AB;
+IdModule  = 403A-03.mod:403A-03;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519BA;
 Reference = D3;
 ValeurCmp = LED;
-IdModule  = PDS1040L;
+IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
@@ -372,318 +365,311 @@ IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /538519C0;
-Reference = D5;
-ValeurCmp = LED;
-IdModule  = 403A-03;
-EndCmp
-
-BeginCmp
-TimeStamp = /538519C1;
-Reference = D6;
-ValeurCmp = LED;
-IdModule  = LEDs:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /538519C2;
-Reference = D7;
-ValeurCmp = LED;
-IdModule  = LEDs:LED-0805;
-EndCmp
-
-BeginCmp
 TimeStamp = /53851A72;
 Reference = D8;
 ValeurCmp = PDS1040L;
-IdModule  = LEDs:LED-0805;
+IdModule  = PDS1040L.mod:PDS1040L;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385196F;
 Reference = D9;
 ValeurCmp = SSC54;
-IdModule  = LEDs:LED-0805;
+IdModule  = DO-214AB.mod:DO-214AB;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A46;
 Reference = D10;
 ValeurCmp = DA2S10100L;
-IdModule  = LEDs:LED-0805;
+IdModule  = SSMini2-F5-B:SSMini2-F5-B;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A4B;
 Reference = D11;
 ValeurCmp = DA2S10100L;
-IdModule  = SMD_Packages:SM0603_Capa;
+IdModule  = SSMini2-F5-B:SSMini2-F5-B;
 EndCmp
 
 BeginCmp
-TimeStamp = /53851A12;
+TimeStamp = /5382861E;
 Reference = D12;
-ValeurCmp = 1N4148W;
-IdModule  = SMD_Packages:SM0402;
+ValeurCmp = DA2S10100L;
+IdModule  = SSMini2-F5-B:SSMini2-F5-B;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385199F;
 Reference = D13;
 ValeurCmp = MC06CF 004;
-IdModule  = LEDs:LED-0805;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A4C;
 Reference = D14;
 ValeurCmp = SMP12A;
-IdModule  = 403A−03;
+IdModule  = DO-220AA:DO-220AA;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519A0;
 Reference = D15;
 ValeurCmp = VBUS05L1-DD1;
-IdModule  = 0402;
+IdModule  = SMD_Packages:SM0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A26;
 Reference = J1;
 ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0330;
-EndCmp
-
-BeginCmp
-TimeStamp = /53851A23;
-Reference = J2;
-ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0330;
-EndCmp
-
-BeginCmp
-TimeStamp = /53851A27;
-Reference = J3;
-ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0210;
+IdModule  = molex_microclasp.mod:55935-0210;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A1D;
 Reference = J4;
 ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0210;
+IdModule  = molex_microclasp.mod:55935-0210;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A1E;
 Reference = J5;
 ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0210;
+IdModule  = molex_microclasp.mod:55935-0210;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A1F;
 Reference = J6;
 ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0210;
+IdModule  = molex_microclasp.mod:55935-0210;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A20;
 Reference = J7;
 ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0210;
+IdModule  = molex_microclasp.mod:55935-0210;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A21;
 Reference = J8;
 ValeurCmp = MicroClasp_hdrX2;
-IdModule  = 55935-0210;
+IdModule  = molex_microclasp.mod:55935-0210;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A24;
 Reference = J9;
 ValeurCmp = MicroClasp_hdrX3;
-IdModule  = 55935-0210;
+IdModule  = molex_microclasp_3.mod:55935-0330;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A25;
 Reference = J10;
 ValeurCmp = MicroClasp_hdrX3;
-IdModule  = ;
+IdModule  = molex_microclasp_3.mod:55935-0330;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A56;
 Reference = JP1;
 ValeurCmp = PINHD-1X5;
-IdModule  = pinhead-1X05;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x05;
 EndCmp
 
 BeginCmp
-TimeStamp = /538519CE;
+TimeStamp = /5388108F;
 Reference = JP2;
-ValeurCmp = PINHD-1X2;
-IdModule  = 55935-0210;
+ValeurCmp = PINHD-1X4;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
 EndCmp
 
 BeginCmp
-TimeStamp = /538519E7;
+TimeStamp = /53894233;
 Reference = JP3;
-ValeurCmp = PINHD-1X2;
-IdModule  = 55935-0210;
+ValeurCmp = BZW06-26B;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851994;
 Reference = JP4;
 ValeurCmp = PINHD-1X5;
-IdModule  = pinhead-2X06;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x05;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A22;
 Reference = JP5;
 ValeurCmp = BZW06-26B;
-IdModule  = pinhead-1X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519CD;
 Reference = JP6;
 ValeurCmp = PINHD-1X8;
-IdModule  = pinhead-1X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519C6;
 Reference = JP7;
 ValeurCmp = PINHD-2X6;
-IdModule  = pinhead-1X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x06;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851961;
 Reference = JP8;
 ValeurCmp = JUMPER;
-IdModule  = pinhead-1X02;
+IdModule  = SMD_Packages:SM0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385197B;
 Reference = JP9;
 ValeurCmp = 6.3PX680MEFC6.3X11;
-IdModule  = SMD_Packages:SM0603;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385197A;
 Reference = JP10;
 ValeurCmp = 6.3PX680MEFC6.3X11;
-IdModule  = pinhead-1X10;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /53835EC8;
+Reference = JP11;
+ValeurCmp = PINHD-1X1;
+IdModule  = NASA_IRG_SSB.mod:1pin_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /538352F8;
+Reference = JP12;
+ValeurCmp = PINHD-1X1;
+IdModule  = NASA_IRG_SSB.mod:1pin_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53835FB5;
+Reference = JP13;
+ValeurCmp = PINHD-1X1;
+IdModule  = NASA_IRG_SSB.mod:1pin_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53835DF0;
+Reference = JP14;
+ValeurCmp = PINHD-1X1;
+IdModule  = NASA_IRG_SSB.mod:1pin_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /538ADB3C;
+Reference = JP15;
+ValeurCmp = BZW06-26B;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A6E;
 Reference = L1;
 ValeurCmp = XAL6030-182MEC;
-IdModule  = XAL60xx;
+IdModule  = XAL60xx.mod:XAL60xx;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851970;
 Reference = L2;
 ValeurCmp = XAL5050-562MEB;
-IdModule  = XAL50xx;
+IdModule  = XAL50xx.mod:XAL50xx;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A0B;
 Reference = L3;
 ValeurCmp = MCSMT-G5030A1-3712;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = MCSMT-G5030A1-3712:MCSMT-G5030A1-3712;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519A1;
 Reference = L4;
 ValeurCmp = FERRITE;
-IdModule  = 0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53851A90;
-Reference = P1;
-ValeurCmp = FREQ;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A54;
 Reference = P2;
 ValeurCmp = CONN_1;
-IdModule  = ;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A3D;
 Reference = P3;
 ValeurCmp = CONN_1;
-IdModule  = ;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519C9;
 Reference = Q1;
 ValeurCmp = TPS54540;
-IdModule  = SMD_Packages:SOT23-5;
+IdModule  = R_PDSO_G8.mod:R-PDSO-G8;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519AC;
 Reference = Q2;
 ValeurCmp = MCP73832;
-IdModule  = SOIC_Packages:SOIC-8_N;
+IdModule  = SMD_Packages:SOT23-5;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385195F;
 Reference = Q3;
 ValeurCmp = 0S102011MA1QN1;
-IdModule  = R-PDSO-G8;
+IdModule  = spdt.mod:SPDT;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A31;
 Reference = Q4;
 ValeurCmp = LT1910;
-IdModule  = SMD_Packages:SO8N;
+IdModule  = SMD_Packages:SO8E;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A53;
 Reference = Q5;
 ValeurCmp = PSMN013-80YS;
-IdModule  = SPDT;
+IdModule  = SOT669.mod:SOT669;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385195E;
 Reference = Q6;
 ValeurCmp = ACS711KLCTR-12AB-T;
-IdModule  = SOT669;
+IdModule  = SOIC_Packages:SOIC-8_N;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385199E;
 Reference = R1;
 ValeurCmp = FUSE 8A;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
@@ -739,35 +725,35 @@ BeginCmp
 TimeStamp = /53851A5A;
 Reference = R9;
 ValeurCmp = 0;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A5B;
 Reference = R10;
 ValeurCmp = INF;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519BD;
 Reference = R11;
-ValeurCmp = 470;
+ValeurCmp = 300;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519BE;
 Reference = R12;
-ValeurCmp = 470;
+ValeurCmp = 300;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519BF;
 Reference = R13;
-ValeurCmp = 470;
-IdModule  = SMD_Packages:SM1206;
+ValeurCmp = 300;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -823,14 +809,14 @@ BeginCmp
 TimeStamp = /53851A63;
 Reference = R21;
 ValeurCmp = 0;
-IdModule  = SMD_Packages:SM1206;
+IdModule  = SMD_Packages:SM0402;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385196A;
 Reference = R22;
 ValeurCmp = 13K;
-IdModule  = SMD_Packages:SM0603;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -844,7 +830,7 @@ BeginCmp
 TimeStamp = /5385198F;
 Reference = R24;
 ValeurCmp = 10K;
-IdModule  = SMD_Packages:SM0603;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -970,7 +956,7 @@ BeginCmp
 TimeStamp = /538519DD;
 Reference = R42;
 ValeurCmp = 50K;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -1019,7 +1005,7 @@ BeginCmp
 TimeStamp = /53851A40;
 Reference = R49;
 ValeurCmp = 0.0025;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1210;
 EndCmp
 
 BeginCmp
@@ -1033,7 +1019,7 @@ BeginCmp
 TimeStamp = /538519D0;
 Reference = R51;
 ValeurCmp = 0.02;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
@@ -1075,168 +1061,175 @@ BeginCmp
 TimeStamp = /53851963;
 Reference = R57;
 ValeurCmp = 10K;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A1C;
 Reference = R58;
 ValeurCmp = 10K;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /53851A4E;
+TimeStamp = /53853292;
 Reference = SW1;
 ValeurCmp = 8US9R2A2M2RES;
-IdModule  = ASL-B3F-1020;
+IdModule  = 8US9R2A2M2RES:8US9R2A2M2RES;
 EndCmp
 
 BeginCmp
-TimeStamp = /53851A4F;
+TimeStamp = /53854089;
 Reference = SW2;
 ValeurCmp = 8US9R2A2M2RES;
-IdModule  = ;
+IdModule  = 8US9R2A2M2RES:8US9R2A2M2RES;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A59;
 Reference = U1;
 ValeurCmp = LTC1871;
-IdModule  = SMD_Packages:SOT23_6;
+IdModule  = SMD_Packages:MSOP10-0.5;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A80;
 Reference = U2;
 ValeurCmp = CSD16323Q3;
-IdModule  = SMD_Packages:SOT23-5;
+IdModule  = CSD16323Q3.mod:Q3;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519E0;
 Reference = U3;
 ValeurCmp = INA197;
-IdModule  = SOIC_Packages:SOIC-8_N;
+IdModule  = SMD_Packages:SOT23-5;
 EndCmp
 
 BeginCmp
-TimeStamp = /53851A34;
+TimeStamp = /53846640;
 Reference = U4;
 ValeurCmp = 74V1T126;
-IdModule  = dp_devices-TQFP-64-10X10;
+IdModule  = SMD_Packages:SOT23-5;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A2B;
 Reference = U5;
 ValeurCmp = Si1970DH;
-IdModule  = SMD_Packages:SOT23;
+IdModule  = Transistors_SMD:sc70-6;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A2A;
 Reference = U6;
 ValeurCmp = Si1970DH;
-IdModule  = SMD_Packages:SOT23_6;
+IdModule  = Transistors_SMD:sc70-6;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A4D;
 Reference = U7;
 ValeurCmp = PIC12(L)F1571/2;
-IdModule  = SMD_Packages:SO8N;
+IdModule  = SMD_Packages:MSOP_8;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519DA;
 Reference = U8;
 ValeurCmp = IRF7329PBF;
-IdModule  = SMD_Packages:SO8N;
+IdModule  = SMD_Packages:SO8E;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519DB;
 Reference = U9;
 ValeurCmp = IRF7329PBF;
-IdModule  = SMD_Packages:SOT23_6;
+IdModule  = SMD_Packages:SO8E;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851960;
 Reference = U10;
 ValeurCmp = SN65HVD232;
-IdModule  = SMD_Packages:SOT23_6;
+IdModule  = SOIC_Packages:SOIC-8_N;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A2C;
 Reference = U11;
 ValeurCmp = Si1970DH;
-IdModule  = SMD_Packages:SO8N;
+IdModule  = Transistors_SMD:sc70-6;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A28;
 Reference = U12;
 ValeurCmp = Si1970DH;
-IdModule  = SMD_Packages:SO8N;
+IdModule  = Transistors_SMD:sc70-6;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A29;
 Reference = U13;
 ValeurCmp = Si1970DH;
-IdModule  = SMD_Packages:SOT23_6;
+IdModule  = Transistors_SMD:sc70-6;
 EndCmp
 
 BeginCmp
 TimeStamp = /5385195D;
 Reference = U14;
 ValeurCmp = DSPIC33E128MC506;
-IdModule  = MODULE;
+IdModule  = dp_devices.mod:dp_devices-TQFP-64-10X10;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A15;
 Reference = U15;
 ValeurCmp = NRF24L01+;
-IdModule  = ;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x04;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519D4;
 Reference = U16;
 ValeurCmp = IRF7329PBF;
-IdModule  = ;
+IdModule  = SMD_Packages:SO8E;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519D5;
 Reference = U17;
 ValeurCmp = IRF7329PBF;
-IdModule  = ;
+IdModule  = SMD_Packages:SO8E;
 EndCmp
 
 BeginCmp
-TimeStamp = /53851A09;
+TimeStamp = /5384E197;
 Reference = U18;
 ValeurCmp = 74LVC1G17;
-IdModule  = ;
+IdModule  = SMD_Packages:SOT23-5;
 EndCmp
 
 BeginCmp
 TimeStamp = /53851A19;
 Reference = U19;
 ValeurCmp = TC74;
-IdModule  = ;
+IdModule  = SMD_Packages:SOT23-5;
 EndCmp
 
 BeginCmp
 TimeStamp = /538519C8;
 Reference = U20;
 ValeurCmp = MCP1700;
-IdModule  = ;
+IdModule  = SMD_Packages:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5384C936;
+Reference = U21;
+ValeurCmp = RGB_LED;
+IdModule  = rgb_led:Cree-RGB-LED;
 EndCmp
 
 EndListe
