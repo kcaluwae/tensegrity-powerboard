@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-05-22 BZR 4885)-product   date = Tue 27 May 2014 06:01:38 PM CEST
+Cmp-Mod V01 Created by Cvpcb (2014-05-22 BZR 4885)-product   date = Wed 28 May 2014 10:52:33 AM CEST
 
 BeginCmp
 TimeStamp = /53851A6A;
@@ -207,13 +207,6 @@ BeginCmp
 TimeStamp = /53851A41;
 Reference = C31;
 ValeurCmp = 100uF;
-IdModule  = SMD_Packages:SM1210;
-EndCmp
-
-BeginCmp
-TimeStamp = /53851A42;
-Reference = C32;
-ValeurCmp = 10uF;
 IdModule  = SMD_Packages:SM1210;
 EndCmp
 
@@ -607,6 +600,13 @@ TimeStamp = /538519A1;
 Reference = L4;
 ValeurCmp = FERRITE;
 IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387CA86;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
 EndCmp
 
 BeginCmp
