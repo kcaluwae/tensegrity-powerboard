@@ -1295,9 +1295,9 @@ Text Label 3600 15100 2    60   ~ 0
 G_LED
 Text Label 3600 15000 2    60   ~ 0
 B_LED
-Text Label 4350 11750 0    60   ~ 0
-CAN_H
 Text Label 4350 11850 0    60   ~ 0
+CAN_H
+Text Label 4350 11750 0    60   ~ 0
 CAN_L
 $Comp
 L GND #PWR025
@@ -2650,13 +2650,13 @@ $EndComp
 $Comp
 L MicroClasp_hdrX2 J1
 U 1 1 53851A26
-P 1150 8500
-F 0 "J1" H 1200 8700 60  0000 C CNN
-F 1 "MicroClasp_hdrX2" V 1450 8500 60  0000 C CNN
-F 2 "" H 1150 8500 60  0000 C CNN
-F 3 "" H 1150 8500 60  0000 C CNN
-	1    1150 8500
-	0    -1   -1   0   
+P 1250 8200
+F 0 "J1" H 1300 8400 60  0000 C CNN
+F 1 "MicroClasp_hdrX2" V 1200 8700 60  0000 C CNN
+F 2 "" H 1250 8200 60  0000 C CNN
+F 3 "" H 1250 8200 60  0000 C CNN
+	1    1250 8200
+	0    1    1    0   
 $EndComp
 $Comp
 L Si1970DH U12
